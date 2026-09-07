@@ -1,4 +1,5 @@
 # Atv - CI com GitHub Actions
+[![CI Python](https://github.com/Fabioluiiz22010/atividade-ci/actions/workflows/ci.yml/badge.svg)](https://github.com/Fabioluiiz22010/atividade-ci/actions/workflows/ci.yml)
 ## Tecnologias 
 * Python
 * Pytest
